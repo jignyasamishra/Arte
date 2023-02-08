@@ -1,0 +1,473 @@
+.bm-burger-button {
+  position: fixed;
+  width: 80px;
+  height:50px;
+  left: 50px;
+  top: 36px;
+
+
+
+
+}
+
+
+.bm-menu {
+  background: #362706;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+
+
+}
+
+.menu-item {
+  text-decoration: none;
+  color: #FFCE45;
+  font-family: Nocturne, serif;
+  font-size: 25px;
+  padding: 34px;
+  position: relative;
+  top: 60px;
+
+}
+
+/* .social{
+  list-style: none;
+  position: relative;
+  right: -1429px;
+  top: 234px;
+font-size: 25px;
+
+
+} */
+.social-li {
+
+  padding: 10px;
+
+}
+
+.social-li a {
+  color: #9f8a64;
+  padding: 10px;
+}
+
+.social-li a:hover {
+  color: #5d4223;
+}
+
+.social {
+  list-style: none;
+  /* border: 2px solid black; */
+  width: 150px;
+  /* position: fixed; */
+  /* right: 0px;
+  top: 234px; */
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: -80px;
+  left: 490px;
+  padding: 10px;
+
+
+
+
+}
+
+.navicon {
+  font-size: 12px;
+
+  position: relative;
+  top: -1px;
+  left: -20px;
+}
+
+#jesus {
+  position: relative;
+  top: -5px;
+  right: 0px;
+  width: 100%;
+
+}
+
+.homebgcontent {
+  position: relative;
+  top: -769px;
+  right: -429px;
+  z-index: 3;
+  /* border: 2px solid black; */
+  width: 765px;
+  font-size: 50px;
+  font-family: ChleonaRegular;
+  color: #5d4223;
+}
+
+.menu-icon {
+  font-size: 20px;
+
+}
+
+/* 
+.timeline {
+  border: 2px solid black;
+  position: relative;
+ top: -216px;
+  background-image: url("https://static1.squarespace.com/static/57ad6b8aebbd1aed407ea1aa/t/59f5d07fec212d295bc20b3e/1509281951399/Untitled.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+
+} */
+
+.timelinehead {
+  /* border: 2px solid black; */
+  position: relative;
+  top: -220px;
+  height: 560px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: #181818;
+  ;
+  flex-direction: column;
+
+  font-family: OrpheusPro;
+  font-size: 60px;
+  font-weight: 600;
+  /* background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cave_of_Altamira_and_Paleolithic_Cave_Art_of_Northern_Spain-110113.jpg/440px-Cave_of_Altamira_and_Paleolithic_Cave_Art_of_Northern_Spain-110113.jpg"); */
+
+}
+
+#contentone {
+  font-size: 25px;
+  display: inline-block;
+  position: relative;
+  top: 18px;
+  margin: 10px;
+  font-weight: 100;
+padding: 20px;
+
+}
+
+#contenttwo {
+  font-size: 25px;
+  width: 90%;
+  display: inline-block;
+  position: relative;
+  margin: 10px;
+  top: -2px;
+  font-weight: 100;
+  padding: 20px;
+
+}
+
+#contentthree {
+  font-size: 25px;
+  position: relative;
+
+  left: -30px;
+  display: inline-block;
+  position: relative;
+  top:-20px;
+  font-weight: 100;
+
+}
+
+.bm-burger-button {
+  height: 35px;
+  width: 45px;
+
+
+}
+
+/* @keyframes potanimation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(90deg);
+  }
+} */
+
+/* .bm-burger-button:hover {
+  animation-name: potanimation;
+  animation-duration: 0.8s;
+
+} */
+
+.vintage {
+  /* background-image: url("https://wallpaperaccess.com/full/3405912.jpg"); */
+  height: 4250px;
+  /* border: 2px solid rgb(0, 0, 0); */
+  background-color: rgb(0, 0, 0);
+  position: relative;
+  top: -220px;
+
+}
+
+#timelinediv {
+  background-image: url("https://static1.squarespace.com/static/57ad6b8aebbd1aed407ea1aa/t/59f5d07fec212d295bc20b3e/1509281951399/Untitled.png");
+}
+
+/* .homebg{
+  background-image: url("https://i.ytimg.com/vi/SVPSGi2kC3k/maxresdefault.jpg");
+  height: 722px;
+  background-repeat: no-repeat;
+width: 1278px;
+  position: absolute;
+  left: 10px;
+  border: 2px solid black;
+  overflow: hidden;
+  object-fit: contain;
+
+
+} */
+#clock {
+  height: 50px;
+  position: relative;
+  left: 50px;
+  display: inline;
+}
+
+.paintings {
+  /* border: 2px solid black; */
+
+
+  height: 600px;
+  background-image: url("https://wallpaperaccess.com/full/1115339.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin: 100px 0px; */
+}
+
+.aboutpainting {
+  height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-image: linear-gradient(180deg, rgba(2, 1, 1, 0.46) 0%, #000000 100%);
+  color: #D4ECDD;
+  font-family: OrpheusPro;
+}
+
+#paint2 {
+  background-image: url("https://wallpaperaccess.com/full/2997.jpg");
+}
+
+#paint3 {
+  background-image: url("https://static.wixstatic.com/media/baa9a9_2dd0fce81b6f4765a8883f3cad0e8df7~mv2.jpg/v1/fit/w_720%2Ch_697%2Cal_c%2Cq_80/file.jpg");
+}
+
+#paint4 {
+  background-image: url("https://wallpaperaccess.com/full/3372721.jpg");
+}
+
+#paint5 {
+  background-image: url("https://cdn.pixabay.com/photo/2020/04/03/03/31/last-supper-4997322__340.png");
+}
+
+#paint6 {
+  background-image: url("https://www.cnet.com/a/img/resize/e8d756831bea5e9ef3e0b2e989edf0c25bc88888/hub/2020/05/13/d442149f-78bc-496c-a86a-bc215d42bf5f/nightwatch.jpg?auto=webp&fit=crop&height=675&width=1200");
+}
+
+#paint7 {
+  background-image: url("https://images.alphacoders.com/695/69561.jpg");
+}
+
+.contact {
+  background-Color: #ffffff;
+  height: 300px;
+  /* border: 2px solid rgb(50, 49, 49); */
+  z-index: 1000;
+  position: relative;
+  top: 4030px;
+
+}
+
+.input {
+  background-Color: #ffffff;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid #9f8a64;
+  font-family: OrpheusPro;
+  width: 260px;
+
+
+
+
+}
+
+.input::placeholder {
+  color: #9f8a64;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.about {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  /* display: contents; */
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -130px;
+  right: 376px;
+  padding: 5px;
+  color: #9f8a64;
+  font-family: OrpheusPro;
+  font-size: 20px;
+}
+
+.about li {
+  padding: 2px;
+}
+
+.about li:hover {
+
+  color: #5d4223;
+}
+
+.arch {
+  /* border: #000000 2px solid; */
+  display: flex;
+  height: 722px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/80/Temple_walls_-_Jagdish_Temple%2C_Udaipur%2C_RJ.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay {
+  width: 100%;
+  height: 722px;
+  background-image: linear-gradient(180deg, rgba(2, 1, 1, 0.46) 0%, #000000 100%);
+  color: #ffffff;
+  list-style: none;
+  font-family: OrpheusPro;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.overlay li{
+  padding: 20px;
+}
+.overlay li  a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.archcontent{
+
+  height: 450px;
+  /* border: 2px solid black; */
+background-color: #EEC373;
+background-image: url("https://image.shutterstock.com/image-vector/ancient-greece-scene-black-figure-260nw-1313572670.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+.archoverlay{
+  height: 450px;
+  width: 100%;
+  background-image: linear-gradient(180deg, rgba(200, 75, 29, 0.46) 0%, #000000 100%);
+
+}
+.more{
+
+  /* border: 2px solid black; */
+  height: 400px;
+  background-color: #ffffff;
+
+}
+.modern_one{
+  /* border: #000000 2px solid;
+  height: 2300px; */
+  background-color: #161615;
+  color: white;
+  font-family: OrpheusPro;
+  font-size: 20px;
+    /* max-width: 120rem; */
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 1.6rem;
+    box-sizing: border-box;
+ 
+  }
+  
+  
+
+
+.modernartcontent{
+  /* border: 2px solid black; */
+  background-color: #ffffff;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: OrpheusPro;
+
+  font-weight: 500;
+  padding: 30px;
+  
+}
+.api{
+  margin-top: 50px;
+  margin-left: 120px;
+ 
+}
+#modernimg{
+  height: 550px;
+  width: 300px;
+}
+.each-slide{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* position: relative;
+  top: 50px; */
+  /* border: #000000 2px solid; */
+  margin: 120px;
+  font-family: OrpheusPro;
+  font-size: 22px;
+  font-weight: 600;
+color: #725b29;
+
+  
+}
+#logonav{
+ height: 100px;
+ 
+}
+.nav_logo_name{
+  position: relative;
+  left: 25px;
+  top: 10px;
+  text-decoration: none;
+  color: #9f8a64;
+  font-family: OrpheusPro;
+  font-size: 28px;
+}
+.nav_logo_name:hover{
+  color: #725b29;
+}
+.loadingscreen{
+ 
+  background-color: #161615;
+  height: 802px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
