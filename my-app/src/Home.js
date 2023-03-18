@@ -51,7 +51,7 @@ export default function Home() {
           <div className="timelinehead"> 
                 A Walk Through Time
                 <p id='contentone'>
-                    What is ART?-The dictionary defination of art says that it is "the conscious use of skill and creative imagination
+                    What is ART? The dictionary defination of art says that it is "the conscious use of skill and creative imagination
                     especially in the production of aesthetic objects"
                 </p>
                 <p id='contenttwo'>
