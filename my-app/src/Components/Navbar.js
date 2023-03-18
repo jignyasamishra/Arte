@@ -21,7 +21,7 @@ export default function Navbar() {
 // }
 
   return (
-    <div>
+    <div className='scrollCancel'>
       <Menu customBurgerIcon={ 
          <div  id='menubutton'>
     <img   src={menu} alt="" />
@@ -33,8 +33,8 @@ export default function Navbar() {
       }> 
     <img style={{position:"relative",bottom:"10px",right:"10px"}} src={navside1} alt="" />
     <img style={{position:"relative",left:"220px",bottom:"40px"}} src={navside2} alt="" />
-    <img style={{position:"relative",left:"220px",top:"630px"}} src={navside3} alt="" />
-    <img style={{position:"relative",top:"600px"}} src={navside4} alt="" />
+    <img style={{position:"relative",left:"220px",top:"530px"}} src={navside3} alt="" />
+    <img style={{position:"relative",top:"510px"}} src={navside4} alt="" />
         <a id="about" className="menu-item" href="/" target="_blank"> <SiMaterialdesignicons className="navicon" /> History Of Art</a>
         <a id="contact" className="menu-item" href="/ModernArt" target="_blank"> <SiMaterialdesignicons className="navicon" />  Modern Art</a>
         <a id="contact" className="menu-item" href="/Architecture" target="_blank"> <SiMaterialdesignicons className="navicon" />Architecture Art</a>

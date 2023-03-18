@@ -1,3 +1,10 @@
+body{
+  overflow-x: hidden;
+
+}
+::-webkit-scrollbar {
+  display: none;
+}
 .bm-burger-button {
   position: fixed;
   width: 80px;
@@ -93,7 +100,7 @@ font-size: 25px;
 .homebgcontent {
   position: relative;
   top: -769px;
-  right: -429px;
+  right: -400px;
   z-index: 3;
   /* border: 2px solid black; */
   width: 765px;
@@ -470,4 +477,7 @@ color: #725b29;
   justify-content: center;
   align-items: center;
   
+}
+.scrollCancel ::-webkit-scrollbar {
+  display: none;
 }
