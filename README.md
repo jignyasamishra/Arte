@@ -3,17 +3,7 @@
 An open source project which portrays various art and architecture using Reactjs and Rijksmuseum REST API using Axios also incorporating parallax effect
 
 
-## API Reference
 
-#### Get all items
-
-```http
-GET(/https://www.rijksmuseum.nl/api/nl/collection?key=YOURAPIKEY)
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
 
 
 
