@@ -8,7 +8,7 @@ An open source project which portrays various art and architecture using Reactjs
 #### Get all items
 
 ```http
-GET/https://www.rijksmuseum.nl/api/nl/collection?key=YOURAPIKEY
+GET(/https://www.rijksmuseum.nl/api/nl/collection?key=YOURAPIKEY)
 ```
 
 | Parameter | Type     | Description                |
